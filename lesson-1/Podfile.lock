@@ -60,6 +60,7 @@ PODS:
     - GoogleUtilities/Logger
   - GTMSessionFetcher/Core (1.6.1)
   - KeychainAccess (4.2.2)
+  - Kingfisher (6.3.1)
   - leveldb-library (1.22.1)
   - nanopb (2.30908.0):
     - nanopb/decode (= 2.30908.0)
@@ -88,6 +89,7 @@ DEPENDENCIES:
   - Firebase/Storage
   - FirebaseUI/Storage
   - KeychainAccess
+  - Kingfisher
   - ReachabilitySwift
   - RealmSwift
   - SDWebImage
@@ -111,6 +113,7 @@ SPEC REPOS:
     - GoogleUtilities
     - GTMSessionFetcher
     - KeychainAccess
+    - Kingfisher
     - leveldb-library
     - nanopb
     - PromisesObjC
@@ -137,6 +140,7 @@ SPEC CHECKSUMS:
   GoogleUtilities: eea970f4a389963963bffe8d8fabe43540678b9c
   GTMSessionFetcher: 36689134877faeb055b27dfa4ccc9ceaa42e029e
   KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
   leveldb-library: 50c7b45cbd7bf543c81a468fe557a16ae3db8729
   nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
   PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
@@ -147,6 +151,6 @@ SPEC CHECKSUMS:
   SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
   SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
 
-PODFILE CHECKSUM: 908bae4644c6e1ced06d9a7b59357bd6e83a62e1
+PODFILE CHECKSUM: c320e380a7f3d1dc6a8dadeac0250ddf83a40843
 
 COCOAPODS: 1.10.1
